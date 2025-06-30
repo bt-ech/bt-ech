@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Madhav Gaur.
-- 👀 I’m interested in Competitive programming , Machine learning and a little bit web development.
-- 🌱 I’m currently learning Data Structures and Algorithms and trying my hands on Machine Learning.
-- 💞️ I’m looking to collaborate on Competitive Programming.
-- 📫 U can connect with me through my linkedIn profile .. link - https://www.linkedin.com/in/madhav-gaur-114364240/?profileId=ACoAADvaZaABc1zVjrd4j4WMVTJnPh9YFtazNwc
-- Thank U 
+## 👋 Hi, I'm Madhav Gaur
 
-<!---
-bt-ech/bt-ech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer with strong interests in **Software Development**, **Web Development**, and **Machine Learning**. I love building meaningful projects, learning new technologies, and solving real-world problems through code.
+
+### 💻 What I Do
+- 🧠 Exploring the world of **Machine Learning** and AI
+- 🌐 Developing responsive and dynamic **web applications**
+- 🛠️ Writing clean and efficient **software solutions**
+
+### 📌 Tech Stack
+- **Languages:** C++, Python, JavaScript,
+- **Web:** HTML, CSS, React, Node.js,
+- **ML:** NumPy, pandas, scikit-learn
+- **Tools:** Git, GitHub, VSCode, Linux
+
+### 📫 Let's Connect
+Feel free to connect or collaborate on projects. I'm always open to learning and growing together!
+
+- 📧 Email: [madhavgaur10nov@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/madhavgaur]
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
