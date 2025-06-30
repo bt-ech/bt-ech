@@ -8,10 +8,10 @@ I'm a passionate developer with strong interests in **Software Development**, **
 - 🛠️ Writing clean and efficient **software solutions**
 
 ### 📌 Tech Stack
-- **Languages:** C++, Python, JavaScript,
-- **Web:** HTML, CSS, React, Node.js,
-- **ML:** NumPy, pandas, scikit-learn
-- **Tools:** Git, GitHub, VSCode, Linux
+- **Languages:** C++, Python, JavaScript.
+- **Web:** HTML, CSS, React, Node.js.
+- **ML:** NumPy, pandas, scikit-learn.
+- **Tools:** Git, GitHub, VSCode, Linux.
 
 ### 📫 Let's Connect
 Feel free to connect or collaborate on projects. I'm always open to learning and growing together!
